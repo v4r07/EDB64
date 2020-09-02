@@ -6,7 +6,6 @@
 (Petit Encode / Decode de Base64 je ne savais pas quoi faire...)
 
 # Require 
-Install Ruby
 Install Colorize (gem install colorize)
 
 # Usage
